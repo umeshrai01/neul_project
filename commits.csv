@@ -1,0 +1,160 @@
+repo,date,message
+ai-app-builder,2026-01-20T04:10:00Z,"Revise README for Python version and clone URL
+
+Updated installation instructions and prerequisites."
+ai-app-builder,2026-01-20T04:08:15Z,Add files via upload
+assignment_tds,2025-05-14T02:52:07Z,Create email.json
+assignment_tds,2025-05-14T02:50:14Z,Initial commit
+breakup_recovery,2025-11-23T10:45:33Z,Create README.md
+breakup_recovery,2025-11-20T08:58:44Z,Update app.py
+breakup_recovery,2025-11-20T08:53:00Z,Update app.py
+breakup_recovery,2025-11-20T08:47:06Z,Added Dev Container Folder
+breakup_recovery,2025-11-20T08:46:11Z,Update requirements.txt
+breakup_recovery,2025-11-20T08:45:33Z,Update requirements.txt
+breakup_recovery,2025-11-20T08:19:00Z,Add files via upload
+breast_cancer_prediction,2024-11-10T00:17:14Z,Update requirements.txt
+breast_cancer_prediction,2024-11-10T00:02:56Z,Update requirements.txt
+breast_cancer_prediction,2024-11-09T23:58:36Z,Update requirements.txt
+breast_cancer_prediction,2024-11-09T23:55:40Z,Add files via upload
+breast_cancer_prediction,2024-11-09T23:45:34Z,Added Dev Container Folder
+breast_cancer_prediction,2024-11-09T23:41:27Z,Add files via upload
+breast_cancer_prediction,2024-11-09T23:28:19Z,Update README.md
+breast_cancer_prediction,2024-11-09T23:27:03Z,Add files via upload
+breast_cancer_prediction,2024-11-09T23:26:22Z,Initial commit
+customer_segmentation_netflix,2026-02-06T14:24:59Z,"Remove 'Country' from dataset requirement notice
+
+Updated dataset requirement notice to remove 'Country' column."
+customer_segmentation_netflix,2026-02-06T14:22:53Z,"Add dataset requirement notice for CSV uploads
+
+Added a warning message about dataset requirements for CSV uploads."
+customer_segmentation_netflix,2026-02-06T14:20:57Z,Update README.md
+customer_segmentation_netflix,2026-02-06T13:31:12Z,Add files via upload
+customer_segmentation_netflix,2026-02-06T13:24:08Z,"Revise README with project details and instructions
+
+Updated project title and added detailed project description, objectives, approach, dashboard features, tech stack, running instructions, key learnings, and future improvements."
+customer_segmentation_netflix,2026-02-06T13:15:00Z,Add files via upload
+customer_segmentation_netflix,2026-02-06T13:14:14Z,Initial commit
+Employee-directory,2025-01-02T08:49:03Z,Updated readme
+Employee-directory,2024-12-18T16:12:10Z,Update README.md
+Employee-directory,2024-12-18T06:47:59Z,Add files via upload
+Employee-directory,2024-12-18T04:55:28Z,Update README.md
+Employee-directory,2024-12-17T20:16:53Z,Update README.md
+Employee-directory,2024-12-17T20:16:10Z,Update README.md
+Employee-directory,2024-12-17T20:12:03Z,Add files via upload
+Employee-directory,2024-12-17T19:56:46Z,Update README.md
+Employee-directory,2024-12-17T19:55:33Z,Update README.md
+Employee-directory,2024-12-17T19:52:53Z,Update README.md
+Employee-directory,2024-12-17T19:37:53Z,Manually uploaded files
+Employee-directory,2024-12-17T19:09:22Z,Initial commit
+employee_directory,2025-01-02T05:15:14Z,Add files via upload
+employee_directory,2025-01-01T16:27:40Z,Create README.md
+employee_directory,2025-01-01T16:14:58Z,Initial commit with Django and React frontend
+Ikea-global-sales-insights,2025-09-10T08:38:06Z,Create index.html
+ipl-match-prediction,2025-11-23T10:41:40Z,"Revise README for IPL Match Winning Prediction
+
+Updated project description and added installation instructions."
+ipl-match-prediction,2025-11-11T18:01:04Z,first commit
+portfolio,2026-02-01T03:57:36Z,Delete .gitattributes
+portfolio,2025-12-01T12:27:59Z,Update index.html
+portfolio,2025-11-23T11:30:29Z,Rename tableau.jpg to Tableau.jpg
+portfolio,2025-11-23T11:29:29Z,Add files via upload
+portfolio,2025-11-23T11:25:36Z,"Enhance CSS with variables and dark mode styles
+
+Refactor CSS for improved structure and dark mode support."
+portfolio,2025-11-23T11:25:07Z,Update script.js
+portfolio,2025-11-23T11:24:40Z,Update index.html
+portfolio,2025-10-11T13:46:58Z,Add files via upload
+portfolio,2025-10-11T12:47:47Z,Create style.css
+portfolio,2025-10-11T12:47:16Z,Create script.js
+portfolio,2025-10-11T12:46:53Z,Update index.html
+portfolio,2025-10-11T12:46:13Z,Delete styles directory
+portfolio,2024-10-30T08:48:21Z,initial commit
+portfolio,2024-10-30T08:45:13Z,Initial commit
+primetrade_project,2026-02-04T15:04:35Z,Add files via upload
+primetrade_project,2026-02-04T15:03:46Z,Update README.md
+primetrade_project,2026-02-04T15:03:15Z,Initial commit
+sales_forcast,2025-11-23T10:37:09Z,Update README.md
+sales_forcast,2025-11-11T11:25:58Z,Add files via upload
+sales_forcast,2025-11-11T11:21:51Z,first commit
+scholars,2024-12-05T09:06:55Z,Add files via upload
+students_zone,2024-09-23T05:25:10Z,added more data
+students_zone,2024-09-20T09:11:54Z,set backend url
+students_zone,2024-09-20T08:22:43Z,frontend URL set again
+students_zone,2024-09-20T07:56:47Z,Reinstalled node modules
+students_zone,2024-09-20T07:40:08Z,changed script
+students_zone,2024-09-20T04:48:53Z,url mod
+students_zone,2024-09-20T04:43:48Z,rechecked url
+students_zone,2024-09-20T04:32:07Z,frontend url changed
+students_zone,2024-09-20T03:57:39Z,remved added heads
+students_zone,2024-09-20T03:41:15Z,"Merge branch 'main' of https://github.com/umeshrai01/students_zone
+Merge updates from remote main branch"
+students_zone,2024-09-20T03:36:33Z,Update package.json
+students_zone,2024-09-20T02:54:12Z,Your commit message here
+students_zone,2024-09-20T03:32:06Z,Updated API URLs to use the production endpoint
+students_zone,2024-09-20T02:16:57Z,Updated Corrs Location
+students_zone,2024-09-20T02:44:22Z,Update app.js
+students_zone,2024-09-20T02:31:33Z,Update app.js
+students_zone,2024-09-20T02:18:40Z,Update app.js
+students_zone,2024-09-20T02:12:00Z,Update app.js
+students_zone,2024-09-20T02:10:44Z,Updated CORS configuration and fixed server routes
+students_zone,2024-09-20T01:59:27Z,Updated backend code and fixed errors
+students_zone,2024-09-20T00:59:18Z,2nd commit
+students_zone,2024-09-19T16:28:19Z,Initial commit
+students_zone,2024-09-19T16:26:08Z,Initial commit
+tds_pro,2026-02-12T04:33:50Z,Automated daily commit at Thu Feb 12 04:33:50 UTC 2026
+tds_pro,2026-02-11T04:39:32Z,Automated daily commit at Wed Feb 11 04:39:32 UTC 2026
+tds_pro,2026-02-10T04:40:43Z,Automated daily commit at Tue Feb 10 04:40:43 UTC 2026
+tds_pro,2026-02-09T04:36:50Z,Automated daily commit at Mon Feb  9 04:36:50 UTC 2026
+tds_pro,2026-02-08T04:41:24Z,Automated daily commit at Sun Feb  8 04:41:24 UTC 2026
+tds_pro,2026-02-07T04:17:22Z,Automated daily commit at Sat Feb  7 04:17:22 UTC 2026
+tds_pro,2026-02-06T04:25:24Z,Automated daily commit at Fri Feb  6 04:25:24 UTC 2026
+tds_pro,2026-02-05T04:25:17Z,Automated daily commit at Thu Feb  5 04:25:17 UTC 2026
+tds_pro,2026-02-04T04:18:57Z,Automated daily commit at Wed Feb  4 04:18:57 UTC 2026
+tds_pro,2026-02-03T04:25:31Z,Automated daily commit at Tue Feb  3 04:25:31 UTC 2026
+tds_pro,2026-02-02T04:34:20Z,Automated daily commit at Mon Feb  2 04:34:20 UTC 2026
+tds_pro,2026-02-01T04:38:57Z,Automated daily commit at Sun Feb  1 04:38:57 UTC 2026
+tds_pro,2026-01-31T04:14:37Z,Automated daily commit at Sat Jan 31 04:14:37 UTC 2026
+tds_pro,2026-01-30T04:19:33Z,Automated daily commit at Fri Jan 30 04:19:33 UTC 2026
+tds_pro,2026-01-29T04:16:05Z,Automated daily commit at Thu Jan 29 04:16:05 UTC 2026
+tds_pro,2026-01-28T03:54:41Z,Automated daily commit at Wed Jan 28 03:54:41 UTC 2026
+tds_pro,2026-01-27T03:56:30Z,Automated daily commit at Tue Jan 27 03:56:30 UTC 2026
+tds_pro,2026-01-26T04:06:57Z,Automated daily commit at Mon Jan 26 04:06:57 UTC 2026
+tds_pro,2026-01-25T04:03:42Z,Automated daily commit at Sun Jan 25 04:03:42 UTC 2026
+tds_pro,2026-01-24T03:46:47Z,Automated daily commit at Sat Jan 24 03:46:47 UTC 2026
+tds_pro,2026-01-23T03:52:19Z,Automated daily commit at Fri Jan 23 03:52:19 UTC 2026
+tds_pro,2026-01-22T03:57:33Z,Automated daily commit at Thu Jan 22 03:57:33 UTC 2026
+tds_pro,2026-01-21T03:53:47Z,Automated daily commit at Wed Jan 21 03:53:47 UTC 2026
+tds_pro,2026-01-20T03:54:00Z,Automated daily commit at Tue Jan 20 03:54:00 UTC 2026
+tds_pro,2026-01-19T04:00:36Z,Automated daily commit at Mon Jan 19 04:00:36 UTC 2026
+tds_pro,2026-01-18T03:54:46Z,Automated daily commit at Sun Jan 18 03:54:46 UTC 2026
+tds_pro,2026-01-17T03:42:20Z,Automated daily commit at Sat Jan 17 03:42:20 UTC 2026
+tds_pro,2026-01-16T03:49:24Z,Automated daily commit at Fri Jan 16 03:49:24 UTC 2026
+tds_pro,2026-01-15T03:51:33Z,Automated daily commit at Thu Jan 15 03:51:33 UTC 2026
+tds_pro,2026-01-14T03:57:06Z,Automated daily commit at Wed Jan 14 03:57:06 UTC 2026
+TDS_project_Assignment_solver,2025-03-31T10:08:58Z,Create Vercel.json
+TDS_project_Assignment_solver,2025-03-31T09:28:57Z,Add files via upload
+TDS_project_Assignment_solver,2025-03-31T09:26:37Z,Initial commit
+todo-app,2025-06-11T04:26:07Z,Initial commit - Full featured Todo App
+tripper,2025-07-06T19:40:46Z,Updated feature X and fixed bug Y
+tripper,2025-07-06T19:37:58Z,first commit
+valentines_proposal,2026-02-05T07:28:49Z,Update prank message in index.html
+valentines_proposal,2026-02-05T06:41:07Z,"Refactor styles and add poop prank feature
+
+Updated styles and functionality for various elements, including hearts, buttons, and success messages. Added a new poop prank feature with falling animations."
+valentines_proposal,2026-02-05T06:27:57Z,Update typing animation message in index.html
+valentines_proposal,2026-02-05T06:20:15Z,"Update styles and text for proposal page
+
+Refactor styles and update text for Valentine's proposal page."
+valentines_proposal,2026-02-04T06:31:59Z,"Enhance noBtn behavior with scaling and visibility
+
+Updated noBtn transformation to include scaling and modified disappearance logic to prevent complete disappearance."
+valentines_proposal,2026-02-04T06:26:10Z,Update index.html
+valentines_proposal,2026-02-04T05:17:30Z,Add initial HTML structure for Valentine's proposal
+web_scraping,2024-11-29T02:38:49Z,Update github_scraper.py
+web_scraping,2024-10-31T07:59:42Z,Update README.md
+web_scraping,2024-10-31T07:58:34Z,Rename GitHub_scaper.py to github_scraper.py
+web_scraping,2024-10-31T07:57:18Z,Update README.md
+web_scraping,2024-10-31T07:56:01Z,Create GitHub_scaper.py
+web_scraping,2024-10-31T07:50:02Z,Add files via upload
+web_scraping,2024-10-31T07:48:59Z,Update README.md
+web_scraping,2024-10-31T07:48:40Z,Initial commit
