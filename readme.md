@@ -1,7 +1,6 @@
 # AI-Powered GitHub Activity Analysis using Local Llama 3.2
 
 ---
-### Demo Video link
 
 
 
