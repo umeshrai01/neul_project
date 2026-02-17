@@ -14,7 +14,7 @@ https://youtu.be/PS68LHQ5WOU
 
 ```bash
 git clone https://github.com/umeshrai01/neul_project
-cd github-ai-analysis
+cd neul_project
 ```
 
 ---
