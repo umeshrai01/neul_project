@@ -2,7 +2,11 @@
 
 ---
 
+# Demo Video Link
 
+https://youtu.be/PS68LHQ5WOU
+
+---
 
 #  How To Run This Project
 
@@ -314,12 +318,6 @@ github-ai-analysis/
 - Language-wise productivity tracking
 - Docker deployment
 - CI/CD integration
-
----
-
-# Demo Video
-
-(Add your Loom/YouTube link here)
 
 ---
 
