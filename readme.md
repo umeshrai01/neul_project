@@ -13,7 +13,7 @@ https://youtu.be/PS68LHQ5WOU
 ## 1 Clone the Repository
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/umeshrai01/neul_project
 cd github-ai-analysis
 ```
 
